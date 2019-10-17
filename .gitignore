@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/target/
+*.log
+*.iml
+
+# Project exclude paths
+/eureka-server/target/
+/hello-server/target/
+/hystrix-dashboard/target/
+/provider-server/target/
+# Project exclude paths
+/turbine-ui-server/target/
